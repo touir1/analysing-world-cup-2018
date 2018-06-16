@@ -1,0 +1,32 @@
+################################################################################
+# This requirements file has been automatically generated from `Pipfile` with
+# `pipenv-to-requirements`
+#
+#
+# This has been done to maintain backward compatibility with tools and services
+# that do not support `Pipfile` yet.
+#
+# Do NOT edit it directly, use `pipenv install [-d]` to modify `Pipfile` and
+# `Pipfile.lock` and then regenerate `requirements*.txt`.
+################################################################################
+
+backcall==0.1.0
+colorama==0.3.9
+decorator==4.3.0
+ipykernel==4.8.2
+ipython-genutils==0.2.0
+ipython==6.4.0
+jedi==0.12.0
+jupyter-client==5.2.3
+jupyter-core==4.4.0
+parso==0.2.1
+pickleshare==0.7.4
+prompt-toolkit==1.0.15
+pygments==2.2.0
+python-dateutil==2.7.3
+pyzmq==17.0.0
+simplegeneric==0.8.1
+six==1.11.0
+tornado==5.0.2
+traitlets==4.3.2
+wcwidth==0.1.7
