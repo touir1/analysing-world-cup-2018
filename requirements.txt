@@ -14,5 +14,6 @@ ipykernel
 matplotlib
 numpy
 pandas
+python-dotenv
 scipy
 sklearn
